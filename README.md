@@ -21,3 +21,12 @@ I'm not just here to write code; I'm here to create solutions. My goal is to bec
 No estoy aquí solo para escribir código; estoy aquí para crear soluciones. Mi objetivo es convertirme en un experto en diseño y desarrollo web, y contribuir en proyectos que tengan un impacto positivo. Ya sea un simple script o una aplicación compleja, estoy emocionado por aprender, construir y colaborar en cualquier proyecto que se presente.
 
 Let's code, learn, and grow together! 🌟
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/FJulieta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaquinHAcosta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaquinHAcosta&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
