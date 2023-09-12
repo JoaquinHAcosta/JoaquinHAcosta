@@ -1,5 +1,5 @@
 
-![Banner Image]([https://i.pinimg.com/originals/db/cd/a7/dbcda7aea559cbe63b1038b7b31e40d3.jpg]())
+![Banner](https://i.pinimg.com/originals/db/cd/a7/dbcda7aea559cbe63b1038b7b31e40d3.jpg)
 # Hi there! 👋
 
 I'm Joaquin Acosta, a beginner programmer excited to embark on this coding journey! 🚀  
